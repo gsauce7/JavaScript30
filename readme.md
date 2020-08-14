@@ -1,10 +1,10 @@
 ﻿![](https://javascript30.com/images/JS3-social-share.png)
-
+*-This is cool! -Gabriel
 # JavaScript30
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
-Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
+[x]Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 ## Community #JavaScript30 Content
 
